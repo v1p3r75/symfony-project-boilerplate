@@ -1,0 +1,7 @@
+# yaml-language-server: $schema=../../vendor/symfony/dependency-injection/Loader/schema/services.schema.json
+# config/packages/maker.yaml
+when@dev:
+    maker:
+        root_namespace: 'App\IAM\'
+        generate_final_classes: true
+        generate_final_entities: false
