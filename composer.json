@@ -12,6 +12,7 @@
         "doctrine/doctrine-bundle": "^3.2",
         "doctrine/doctrine-migrations-bundle": "^4.0",
         "doctrine/orm": "^3.6",
+        "odolbeau/phone-number-bundle": "^4.2",
         "stof/doctrine-extensions-bundle": "^1.15",
         "symfony/console": "8.0.*",
         "symfony/dotenv": "8.0.*",
